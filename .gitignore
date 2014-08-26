@@ -21,3 +21,6 @@ gradle
 # idea files
 *.iml
 .idea
+
+# merge files
+*.orig
